@@ -1,5 +1,5 @@
 module.exports = {
-  purge: ["./**/*.html"],
+  // purge: ["./**/*.html"], // disabled purge due to dynamic content
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
